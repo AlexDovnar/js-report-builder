@@ -1,0 +1,29 @@
+{
+  "name": "js-report-builder",
+  "version": "0.0.1",
+  "description": "JS Report Builder is the embedded tool, that helps you to easily build an html report from an array of mapped objects.",
+  "main": "scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexDovnar/js-report-builder.git"
+  },
+  "keywords": [
+    "['javascript'",
+    "'report'",
+    "'builder'",
+    "'generator']"
+  ],
+  "author": "Aliaksandr Dounar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexDovnar/js-report-builder/issues"
+  },
+  "homepage": "https://github.com/AlexDovnar/js-report-builder#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
