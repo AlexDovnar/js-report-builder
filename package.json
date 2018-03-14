@@ -11,10 +11,11 @@
     "url": "git+https://github.com/AlexDovnar/js-report-builder.git"
   },
   "keywords": [
-    "['javascript'",
-    "'report'",
-    "'builder'",
-    "'generator']"
+    "javascript",
+    "js",
+    "report",
+    "builder",
+    "generator"
   ],
   "author": "Aliaksandr Dounar",
   "license": "MIT",
